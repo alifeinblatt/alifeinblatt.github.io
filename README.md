@@ -5,4 +5,4 @@ Hi, my name is Ali Feinblatt and I am a Sophomore at Lehigh University! I am maj
 
 Welcome to my [LinkedIn Page](https://www.linkedin.com/in/ali-feinblatt-5a7774295/)
 
-![IMG_3331](https://github.com/user-attachments/assets/afe92d4e-212a-45db-94a6-d8f08778f602)
+![IMG_3331](https://github.com/user-attachments/assets/afe92d4e-212a-45db-94a6-d8f08778f602|width=100)
