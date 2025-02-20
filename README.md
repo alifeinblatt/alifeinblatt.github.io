@@ -9,4 +9,4 @@ Welcome to my [LinkedIn Page](https://www.linkedin.com/in/ali-feinblatt-5a777429
 
 Lehigh University continues to excel in academics, student life, and community engagement. This Fall 2024 profile provides an overview of admissions, enrollment, residence, and staff data. Explore the numbers behind Lehigh’s campus experience!
 
-![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/d82880d7f435476425e6ca01a40b4e867dee7200/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.png| width=100)
+![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/d82880d7f435476425e6ca01a40b4e867dee7200/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.png)
