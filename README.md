@@ -10,3 +10,9 @@ Welcome to my [LinkedIn Page](https://www.linkedin.com/in/ali-feinblatt-5a777429
 Lehigh University continues to excel in academics, student life, and community engagement. This Fall 2024 profile provides an overview of admissions, enrollment, residence, and staff data. Explore the numbers behind Lehigh’s campus experience!
 
 ![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/d82880d7f435476425e6ca01a40b4e867dee7200/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.png)
+
+## New York Knicks Statistics
+
+Here is Data for the New York Knicks in the 2024-2025 season. You can see  not only each player's statistics but the team as a whole! 
+
+![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/3f0347ee6b4e94b88af47893a2bafbba908b08dc/Invitacio%CC%81n%20Cumplean%CC%83os%20Elegante%20Negro%20y%20Dorado.png)
