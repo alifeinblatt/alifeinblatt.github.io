@@ -15,4 +15,4 @@ Lehigh University continues to excel in academics, student life, and community e
 
 Here is Data for the New York Knicks in the 2024-2025 season. You can see  not only each player's statistics but the team as a whole! 
 
-![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/3f0347ee6b4e94b88af47893a2bafbba908b08dc/Invitacio%CC%81n%20Cumplean%CC%83os%20Elegante%20Negro%20y%20Dorado.png)
+![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/8dea67d3be26bd4fc3c118527b3e9fbf6920f272/Invitacio%CC%81n%20Cumplean%CC%83os%20Elegante%20Negro%20y%20Dorado%20(2).png)
