@@ -16,3 +16,7 @@ Lehigh University continues to excel in academics, student life, and community e
 Here is Data for the New York Knicks in the 2024-2025 season. You can see  not only each player's statistics but the team as a whole! 
 
 ![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/8dea67d3be26bd4fc3c118527b3e9fbf6920f272/Invitacio%CC%81n%20Cumplean%CC%83os%20Elegante%20Negro%20y%20Dorado%20(2).png)
+
+
+## Here is a Timeline of the Lehigh-Lafayette Rivalry
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eD5OK1QWSGRCpfdl-7M430sIMvNmgZqDsLbvkjB69SA&font=Default&lang=en&initial_zoom=2&height=650
