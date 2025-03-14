@@ -26,3 +26,7 @@ Here is Data for the New York Knicks in the 2024-2025 season. You can see  not o
 
 ## Here is a bar chart representing the undergraduate percentage of Lehigh Students in each college 
 ![image](https://github.com/user-attachments/assets/ea2f98f8-d554-40e0-a34a-1f9f5e863c19)
+
+
+## Here is a line chart demonstrating the weather paterns in Bethlehem, PA
+![image](https://github.com/user-attachments/assets/79db0a7b-c7a1-4056-967c-684b82c1110d)
