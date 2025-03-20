@@ -30,3 +30,7 @@ Here is Data for the New York Knicks in the 2024-2025 season. You can see  not o
 
 ## Here is a line chart demonstrating the weather paterns in Bethlehem, PA
 ![image](https://github.com/user-attachments/assets/79db0a7b-c7a1-4056-967c-684b82c1110d)
+
+
+## Here is a Map Demonstrating the Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MVsiQaBzcgR3L1MQqDgUKIc4V1KqApM&ehbc=2E312F" width="640" height="480"></iframe>
