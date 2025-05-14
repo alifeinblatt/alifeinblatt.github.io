@@ -5,11 +5,14 @@ Hi, my name is Ali Feinblatt and I am a Sophomore at Lehigh University! I am maj
 
 Welcome to my [LinkedIn Page](https://www.linkedin.com/in/ali-feinblatt-5a7774295/)
 ![IMG_3331](https://github.com/user-attachments/assets/afe92d4e-212a-45db-94a6-d8f08778f602)
+
 ## Lehigh University Fall 2024 Information
 
 Lehigh University continues to excel in academics, student life, and community engagement. This Fall 2024 profile overviews admissions statistics, undergraduate enrollment, campus housing, and staffing data. Explore the numbers behind Lehigh’s campus experience!
 
-![infograhpic](https://github.com/alifeinblatt/alifeinblatt.github.io/blob/d82880d7f435476425e6ca01a40b4e867dee7200/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.png)
+![infograhpic][(https://github.com/alifeinblatt/alifeinblatt.github.io/blob/d82880d7f435476425e6ca01a40b4e867dee7200/Blue%20Entrepreneur%20Personalities%20Business%20Infographic.png)(https://github.com/alifeinblatt/alifeinblatt.github.io/blob/main/graphics.png)
+
+
 
 ## New York Knicks Statistics
 
