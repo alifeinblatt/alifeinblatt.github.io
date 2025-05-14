@@ -19,7 +19,7 @@ Being from New York City, the New York Knicks are my favorite basketball team. S
 
 
 ## Here is a Timeline of the Lehigh-Lafayette Rivalry
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRrZG2bFZGxB5R2WUWFQ_Mn8ZDo9PycaIEJ11KbGC7xwCZjGFHXLnzGBMhHTulcIjU5QILWoqQrSY0X&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRrZG2bFZGxB5R2WUWFQ_Mn8ZDo9PycaIEJ11KbGC7xwCZjGFHXLnzGBMhHTulcIjU5QILWoqQrSY0X&font=Default&lang=en&initial_zoom=2&width=100%25&height=650'width='100%'height='650'webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Here is a Timeline of Women in Sports
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1leixmZEQ6MiKPLOvUqd89mQPgkDcnXH6lwtWZ2mp6Ow&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
