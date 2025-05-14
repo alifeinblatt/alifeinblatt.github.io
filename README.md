@@ -22,6 +22,8 @@ Being from New York City, the New York Knicks are my favorite basketball team. S
 
 
 ## Here is a Timeline of the Lehigh-Lafayette Rivalry
+The Lehigh-Lafayette football rivalry is the longest and most-played rivalry in college football history. The first game was in 1884, and there have been over 150 games since then. This tradition brings together generations of students, alumni, and fans on both sides. Look at this timeline to see how the rivalry has changed overtime, and amazing moments that have happened throughout history. 
+
 <iframe 
   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRrZG2bFZGxB5R2WUWFQ_Mn8ZDo9PycaIEJ11KbGC7xwCZjGFHXLnzGBMhHTulcIjU5QILWoqQrSY0X&font=Default&lang=en&initial_zoom=2&height=650" 
   width="100%" 
@@ -34,6 +36,8 @@ Being from New York City, the New York Knicks are my favorite basketball team. S
 
 
 ## Here is a Timeline of Women in Sports
+Throughout history, women were not always allowed to play in various big sports matches such as the Olympics. However, women have fought their way into the sports world. Throughout various milestones, there have been many achievements made by very brace women throughout history, who were not afraid to compete in sports that they loved. 
+
 <iframe 
   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRMwEbnvElfUWiakTa98BVYEKw_-rFftSNa5xpURw_21cvC2VMmW_KZdeaG2k41m3s9BNbkGFVMBI-D&font=Default&lang=en&initial_zoom=2&height=650" 
   width="100%" 
