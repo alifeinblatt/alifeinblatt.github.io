@@ -48,17 +48,24 @@ Throughout history, women were not always allowed to play in various big sports 
   mozallowfullscreen>
 </iframe>
 
-## Here is a bar chart representing the undergraduate percentage of Lehigh Students in each college 
+## Chart representing the undergraduate percentage of Lehigh Students in each college 
+This bar chart shows the distribution of undergraduate students across Lehigh's colleges. The largest number of students is enrolled in the College of Arts and Sciences (CAS), then the P.C. Rossin College of Engineering, and the College of Business. However, the smallest number of students are enrolled in intercollegiate programs, and the College of Health. 
+
 ![image](https://github.com/user-attachments/assets/ea2f98f8-d554-40e0-a34a-1f9f5e863c19)
 
 
-## Here is a line chart demonstrating the weather paterns in Bethlehem, PA
+## Chart demonstrating the weather patterns in Bethlehem, PA
+This line chart shows the weather patterns in Bethlehem, Pennsylvania, from March 6 to March 15. This shows that there are various fluctuations, with a rise in temperature on March 11, following colder weather patterns. This shows how unpredictable the weather is during that time. 
+
 ![image](https://github.com/user-attachments/assets/79db0a7b-c7a1-4056-967c-684b82c1110d)
 
 
 ## Here is a Map Demonstrating the Top 20 Cycling Cities
+This interactive map shows the top 20 cities around the world that are known for their bike-friendly infrastructure. These cities are safe and accessible to travel in. Explore the map to see each of these places!
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MVsiQaBzcgR3L1MQqDgUKIc4V1KqApM&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## Here is a Map Showing the Top 10 Cities with the Best Public Transportation Systems in the United States
+This map shows the top 10 U.S. cities with the most efficient, reliable, and accessible public transportation systems. New York City has the best public transportation because of the subway which connects all five boroughs. Explore each of these places and why their public transportation is so great!
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gQNfmHhAEljglkRdMRPFHcLsq1P7tK0&ehbc=2E312F" width="640" height="480"></iframe>
