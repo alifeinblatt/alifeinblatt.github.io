@@ -69,3 +69,7 @@ This interactive map shows the top 20 cities around the world that are known for
 ## Here is a Map Showing the Top 10 Cities with the Best Public Transportation Systems in the United States
 This map shows the top 10 U.S. cities with the most efficient, reliable, and accessible public transportation systems. New York City has the best public transportation because of the subway which connects all five boroughs. Explore each of these places and why their public transportation is so great!
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gQNfmHhAEljglkRdMRPFHcLsq1P7tK0&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Coffee Price vs. Total Cups in Various Countries 
+Here is a chart showing the coffee price in various countries, and the number of cups of coffee that those countries drink in millions. As you can see, there is not much of a correlation between the price and the number of cups of coffee. It is crazy to compare the most expensive country to the least expensive, when they are both selling coffee!
+![infographic](Sheet 1-2.png)
