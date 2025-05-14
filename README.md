@@ -72,4 +72,4 @@ This map shows the top 10 U.S. cities with the most efficient, reliable, and acc
 
 ## Coffee Price vs. Total Cups in Various Countries 
 Here is a chart showing the coffee price in various countries, and the number of cups of coffee that those countries drink in millions. As you can see, there is not much of a correlation between the price and the number of cups of coffee. It is crazy to compare the most expensive country to the least expensive, when they are both selling coffee!
-![infographic](Sheet 1-2.png)
+![infographic](coffee.png)
