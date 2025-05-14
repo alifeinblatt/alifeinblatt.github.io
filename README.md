@@ -34,7 +34,15 @@ Being from New York City, the New York Knicks are my favorite basketball team. S
 
 
 ## Here is a Timeline of Women in Sports
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1leixmZEQ6MiKPLOvUqd89mQPgkDcnXH6lwtWZ2mp6Ow&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe 
+  src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRMwEbnvElfUWiakTa98BVYEKw_-rFftSNa5xpURw_21cvC2VMmW_KZdeaG2k41m3s9BNbkGFVMBI-D&font=Default&lang=en&initial_zoom=2&height=650" 
+  width="100%" 
+  height="650" 
+  frameborder="0" 
+  allowfullscreen 
+  webkitallowfullscreen 
+  mozallowfullscreen>
+</iframe>
 
 ## Here is a bar chart representing the undergraduate percentage of Lehigh Students in each college 
 ![image](https://github.com/user-attachments/assets/ea2f98f8-d554-40e0-a34a-1f9f5e863c19)
